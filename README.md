@@ -13,3 +13,7 @@ A triple pendulum simulation might be interesting!
 ## "Millikan" experiment simulation
 
 The aim of this project is the simulation and visualisation of the motion of particles inside a box and subject to the graviational force and electrostatic force.
+
+## Lorenz System
+
+A project for integration and visualisation of Lorenz systems.
